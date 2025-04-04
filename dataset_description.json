@@ -1,8 +1,8 @@
 {
-  "Name": "CogRief Study",
-  "BIDSVersion": "1.8.0",
-  "DatasetType": "raw",
-  "Authors": [
+    "Name": "CogRief Study",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
         "Andrea Redondo-Armenteros",
         "Manuel Fernández-Alcántara",
         "Francisco Cruz-Quintana",
@@ -16,5 +16,7 @@
     ],
     "EthicsApprovals": [
         "Human Research Ethics Committee of the University of Granada (2328/CEIH/2021)"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006092.v1.0.0",
+    "License": "CC0"
 }
